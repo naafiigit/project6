@@ -1,6 +1,10 @@
-
+<<<<<<< Updated upstream
+remote repo change
+=======
+local repo change
+>>>>>>> Stashed changes
 solving conflict from local
-
+ruupoo
 
 
 
