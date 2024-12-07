@@ -1,7 +1,7 @@
 a
 this is from remote repository
-
 for solving conflict by using pull request merge
+local repo change
 change from remote repo
 
 
