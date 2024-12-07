@@ -2,6 +2,7 @@ a
 this is from remote repository
 
 for solving conflict by using pull request merge
+change from remote repo
 
 
 
